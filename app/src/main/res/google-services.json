@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "856974392175",
+    "firebase_url": "https://primal-catfish-141309.firebaseio.com",
+    "project_id": "primal-catfish-141309",
+    "storage_bucket": "primal-catfish-141309.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856974392175:android:262e32e1d4b7202b",
+        "android_client_info": {
+          "package_name": "com.a2l.cheatoye"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856974392175-j8cvssjv9msjlhdgpodcnd0kbi5bcivs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJPDpakp-YQGcjARx6ZNqJq0vqdnBqnVQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
